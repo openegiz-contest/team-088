@@ -22,7 +22,7 @@
 
 | GitHub |
 |---|
-|  |
+|@aksezimmergenbaj-png |
 
 ## Mine
 
