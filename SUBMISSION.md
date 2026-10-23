@@ -6,15 +6,15 @@
 
 <!-- Written by the Team before the code: your own choice, a few sentences per answer. Everything else in the Submission follows from it. -->
 
-**Enterprise:** <!-- Which mining enterprise, or which part of it, the twin represents. -->
+**Enterprise:** <SmartMine AI is a fictional underground copper mine with tunnels, mining equipment, ventilation systems, and safety sensors. -->
 
-**Users:** <!-- Who uses the twin. -->
+**Users:** <Mine dispatchers, safety engineers, ventilation operators, and mine managers. -->
 
-**Decision:** <!-- Which decision the twin helps them make. -->
+**Decision:** <The digital twin helps operators decide when to increase ventilation, stop equipment, or issue safety alerts based on simulated gas concentrations, temperature, and equipment conditions. -->
 
-**Why this choice:** <!-- Why this enterprise, these users and this decision. -->
+**Why this choice:** <Underground mining involves safety risks related to hazardous gases, ventilation failures, and equipment malfunctions. SmartMine AI will help simulate dangerous situations, monitor mine conditions, and support safer operational decisions.-->
 
-**Real or fictional:** <!-- A real object: name it and give the sources of its numbers. A fictional one: which real objects it resembles and where its numbers come from. A real object with sourced numbers scores higher. -->
+**Real or fictional:** <SmartMine AI is a fictional underground copper mine inspired by real underground mining operations. Initial sensor values and equipment parameters will be simulated assumptions, with documented sources added for any real-world reference values. -->
 
 ## Team
 
