@@ -26,7 +26,20 @@
 
 ## Mine
 
-<!-- Which part of a mining enterprise the Submission represents (open pit, underground mine, processing plant…), which objects are twins in OpenEgiz, how they are related, and where they are defined in the code. -->
+<SmartMine AI represents an underground copper mine focused on operational safety and ventilation monitoring.
+
+The proposed digital twin includes:
+
+1. Underground tunnels connecting mining zones and transport routes.
+2. Mining zones where copper ore extraction is simulated.
+3. Ventilation fans supplying fresh air to underground areas.
+4. Environmental sensors monitoring gas concentration and temperature.
+5. Underground mining vehicles transporting extracted ore.
+6. A control dashboard displaying mine conditions and safety alerts.
+
+The objects are connected through a simulated mine monitoring system. Sensors provide environmental data, ventilation fans influence airflow conditions, and equipment status affects mine operations.
+
+The exact OpenEgiz twin definitions and source-code paths will be documented after implementation. -->
 
 ## Modules and What-if Scenarios
 
